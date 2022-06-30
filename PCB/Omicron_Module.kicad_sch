@@ -1769,7 +1769,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 29b7865a-1d33-42a4-a4e9-8eed77c527f3)
     (property "Reference" "R3" (id 0) (at 52.07 74.9299 0))
-    (property "Value" "1.8k" (id 1) (at 52.07 77.4699 0))
+    (property "Value" "1.58k" (id 1) (at 52.07 77.4699 0))
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric" (id 2) (at 55.88 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -2216,7 +2216,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 7fbdd09b-d86c-4abb-a312-f9e5bb2e31ec)
     (property "Reference" "R2" (id 0) (at 50.8 52.07 90))
-    (property "Value" "4.7k" (id 1) (at 50.8 54.61 90))
+    (property "Value" "7.5k" (id 1) (at 50.8 54.61 90))
     (property "Footprint" "Resistor_SMD:R_1206_3216Metric" (id 2) (at 50.8 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3031,10 +3031,10 @@
       (reference "R1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/7fbdd09b-d86c-4abb-a312-f9e5bb2e31ec"
-      (reference "R2") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_1206_3216Metric")
+      (reference "R2") (unit 1) (value "7.5k") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/29b7865a-1d33-42a4-a4e9-8eed77c527f3"
-      (reference "R3") (unit 1) (value "1.8k") (footprint "Resistor_SMD:R_1206_3216Metric")
+      (reference "R3") (unit 1) (value "1.58k") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/4ae6ce55-670a-4c1c-92ab-18b7f565ee1d"
       (reference "R4") (unit 1) (value "1k") (footprint "Resistor_SMD:R_1206_3216Metric")
