@@ -3,6 +3,7 @@ A PCB for a compact but complete headphone amplifier package. Designed to fit in
 
 ## Key Features
 * Swappable amplifier and relay attenuator modules
+* Large heatsink with variable position based on thermal planes of amplifier modules
 * +-13.7V voltage rails for the amplifier modules
 * +5V secondary rail for the microcontroller, relays and logic
 * Power on/off anti-thump functionality
