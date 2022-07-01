@@ -17,14 +17,13 @@ An on-board ATtiny2313A-P is used to control these functions:
 * RGB state indicator LED (because why not)
 
 ![Render_Backplane](Images/Render_Backplane.png)
-![PCB_Backplane_Front](Images/PCB_Backplane_Front.png)
-![PCB_Backplane_Back](Images/PCB_Backplane_Back.png)
+[PCB_Backplane](Images/Backplane-Assembly.pdf)
 ![Schematic_Backplane](Images/Schematic_Backplane.svg)
 
 ![Render_Attenuator](Images/Render_Attenuator.png)
-![PCB_Attenuator](Images/PCB_Attenuator.png)
+[PCB_Attenuator](Images/Attenuator-Assembly.pdf) 
 ![Schematic_Attenuator](Images/Schematic_Attenuator.svg)
 
 ![Render_Omicron_Module](Images/Render_Omicron_Module.png)
-![PCB_Omicron_Module](Images/PCB_Omicron_Module.png)
+[PCB_Omicron_Module](Images/Omicron_Module-Assembly.pdf)
 ![Schematic_Omicron_Module](Images/Schematic_Omicron_Module.svg)

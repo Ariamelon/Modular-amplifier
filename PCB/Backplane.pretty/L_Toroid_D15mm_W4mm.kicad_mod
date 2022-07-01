@@ -1,6 +1,6 @@
 (footprint "L_Toroid_D15mm_W4mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 62BC19AB)
+  (tedit 62BE291A)
   (descr "Inductor, Axial series, Axial, Horizontal, pin pitch=15.24mm, , length*diameter=12*5mm^2, Fastron, MISC, http://cdn-reichelt.de/documents/datenblatt/B400/DS_MISC.pdf")
   (tags "Inductor Axial series Axial Horizontal pin pitch 15.24mm  length 12mm diameter 5mm Fastron MISC")
   (attr through_hole)
@@ -32,11 +32,6 @@
   (fp_line (start 8.8 -2.5) (end -8.8 -2.5) (layer "F.Fab") (width 0.1) (tstamp d7c6219b-0da9-4f4f-8088-bf9f1c4697df))
   (pad "1" thru_hole circle (at -1.27 2.54) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp e5eeae22-a454-4b4b-b7a4-cc886a813546))
   (pad "2" thru_hole oval (at 1.27 -2.54) (size 2.4 2.4) (drill 1.2) (layers *.Cu *.Mask) (tstamp a1259e6b-4820-44fe-aae8-d9b2dd645a3e))
-  (model "${KIPRJMOD}/X-Altra HPA1.pretty/3D/Inductor toroid.step"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
   (model "${KIPRJMOD}/Backplane.pretty/3D/Inductor toroid.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
